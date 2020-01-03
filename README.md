@@ -15,3 +15,10 @@ cd expo-apollo-boilerplate
 npm install
 npm start
 ```
+
+## .Env File
+
+```bash
+GRAPHQL_ENDPOINT=http://127.0.0.1:3000/graphql
+EXPO_DEBUG=true
+```
