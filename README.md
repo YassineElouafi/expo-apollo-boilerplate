@@ -1,3 +1,3 @@
 # expo-apollo-boilerplate
-Clean boilerplate for Expo (React Native) + React Apollo (GraphQL) + React Navigation + Jest
+Clean boilerplate for Expo (React Native) + React Apollo (GraphQL) + React Navigation + Jest + i18n
 
