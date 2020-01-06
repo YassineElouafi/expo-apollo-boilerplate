@@ -1,0 +1,10 @@
+{
+    "general":{
+        "cancel":"Annuler",
+        "welcome":"Bienvenue",
+        "added": "Ajouté",
+        "Forgot":"Mot de pass Oubliée",
+        "send": "Envoyer",
+        "password_forgot_info": "Entrez votre nom d'utilisateur ou l'adresse e-mail avec laquelle vous vous êtes inscrit. Nous vous enverrons un email avec votre nom d'utilisateur et un lien pour réinitialiser votre mot de passe."
+    }
+ }

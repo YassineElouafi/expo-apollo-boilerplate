@@ -1,0 +1,10 @@
+{
+    "general":{
+        "cancel":"Cancel",
+        "welcome":"Welcome",
+        "added": "Added",
+        "Forgot":"Forgot",
+        "send": "Send",
+        "password_forgot_info": "Enter your username, or the email address that you used to register. We'll send you an email with your username and a link to reset your password."
+    }
+}
